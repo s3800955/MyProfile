@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Jason Boden's Personal Profile
 
-You can use the [editor on GitHub](https://github.com/s3800955/myprofile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On my profile, i will be explaining to you a little bit about myself, my interests in the Information Technology field, The ideal
+job that i wish to strive for & why im attracted to said job, i will also explain the skills, experience and qualifications needed
+for the job.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So lets start with the basics.
+My name is Jason john Boden, My middle name comes from my father, who's middle name is also john... pretty unique right!
+Alright jokes aside, I'm a 21 year old University student studying my Bachelor of Information Technology, As i have always shown an interest in the IT world, but we will get into that soon.
+My birthday is on the 16th of march, funny enough, just a couple days after my fathers birthday, and on the same day as my
+grandmothers birthday!
+I have been playing Video games since a very young age, Both on a Console, and on the Computer, but i really took a strong
+attachment to all things computer around the age of 11 to 13.
 
-```markdown
-Syntax highlighted code block
+### My interest in IT
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s3800955/myprofile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
