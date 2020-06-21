@@ -35,8 +35,9 @@ From that time until now, I've worked for a small business named Computers & Mor
 to drive a sale for a computer.
 So after all of that, why did i decide to study a Bachelor of Information Technology through RMIT University, and what do i expect to learn during my studies?
 Well, I think the main reason why i decided to study IT is of course, my love for the IT related fields, It is something that
-i enjoy, and always have enjoyed doing, And i chose to do my studies through RMIT after completing research on Universities, i found RMIT looked the best in my eyes, And after reading reviews on the university, and see'ing how many people have attended the University and all of the good things they had to say about it, I decided it was the University i wanted to study with.
+i enjoy and always have enjoyed doing, And i chose to do my studies through RMIT after completing research on Universities, i found RMIT looked the best in my eyes, And after reading reviews on the university, and see'ing how many people have attended the University and all of the good things they had to say about it, I decided it was the University i wanted to study with.
 As for what i expect to learn during my studies, Of course, the fundamentals of IT, I am expecting to learn a mixture of things in the IT field, programming, Cyber Security, How to work well in a group of like minded individuals to get the task or project we are working on complete, Meeting Deadlines, and further increase my knowledge on the IT world.
+Programming is going to take the cake for my ideal future career, i would like to begin with Web development and slowly after experience gained from that area, move into the development of computer applications & possibly Game Development.
 
 
 
